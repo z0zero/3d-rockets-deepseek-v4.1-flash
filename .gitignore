@@ -1,0 +1,11 @@
+node_modules
+dist
+.tmp
+.npm-cache
+*.tsbuildinfo
+*.local
+.DS_Store
+
+# Reference footage used for palette/pacing only — not part of the project.
+ssstwitter.com_*.mp4
+*.mp4
